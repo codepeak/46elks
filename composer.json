@@ -14,7 +14,7 @@
     "require": {
         "php": ">=7.0",
         "guzzlehttp/guzzle": "^6.3 || ^6.5 || ^7.0",
-        "illuminate/notifications": "^v8.0",
+        "illuminate/notifications": "*",
         "illuminate/support": " ^8.0"
     },
     "require-dev": {
