@@ -15,7 +15,7 @@
         "php": ">=7.0",
         "guzzlehttp/guzzle": "^6.3 || ^6.5 || ^7.0",
         "illuminate/notifications": "*",
-        "illuminate/support": "^8.0"
+        "illuminate/support": "*"
     },
     "require-dev": {
         "mockery/mockery": "^0.9.5",
